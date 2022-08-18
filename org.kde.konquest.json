@@ -39,8 +39,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/konquest-22.04.3.tar.xz",
-                    "sha256": "79cde1af521f2d7be9814779015f83fcd549cba34c31f6f33b31d20bc6d9d4cf",
+                    "url": "https://download.kde.org/stable/release-service/22.08.0/src/konquest-22.08.0.tar.xz",
+                    "sha256": "0aa31ab74539b8dc0a3a870d7948cb0be2820e1af454b95d8e5e3e27d9685ade",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
