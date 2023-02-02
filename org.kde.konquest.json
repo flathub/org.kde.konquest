@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.1/src/libkdegames-22.12.1.tar.xz",
-                    "sha256": "95351acdf3624a5913ab18d4c3e4acdd3c559b7df63e2541299088bcbf71fe29",
+                    "url": "https://download.kde.org/stable/release-service/22.12.2/src/libkdegames-22.12.2.tar.xz",
+                    "sha256": "3f2f7f921e6a5693ee9cb7d4a802011186f575bd2a6fae9161b96b6a3289abf4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -39,8 +39,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.1/src/konquest-22.12.1.tar.xz",
-                    "sha256": "66e6d6292f89d1ce0e3ed9aa8fcc243b772bf8ebc9f33e6abafbead0a9efb95a",
+                    "url": "https://download.kde.org/stable/release-service/22.12.2/src/konquest-22.12.2.tar.xz",
+                    "sha256": "fe6d86bea40362218ec4e0e060c4b71ef87a4bcedb0291992ba23eedd8274ac1",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
